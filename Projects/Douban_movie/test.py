@@ -1,0 +1,12 @@
+{"rating":["9.6","50"],
+ "rank":1,
+ "cover_url":"https://img3.doubanio.com\/view\/movie_poster_cover\/mpst\/public\/p480747492.webp",
+ "is_playable":true,
+ "id":"1292052",
+ "types":["犯罪","剧情"],
+ "regions":["美国"],
+ "title":"肖申克的救赎",
+ "url":"https:\/\/movie.douban.com\/subject\/1292052\/",
+ "release_date":"1994-09-10","actor_count":15,
+ "vote_count":854002,"score":"9.6","actors":["蒂姆·罗宾斯","摩根·弗里曼","鲍勃·冈顿","威廉姆·赛德勒","克兰西·布朗","吉尔·贝罗斯","马克·罗斯顿","詹姆斯·惠特摩","杰弗里·德曼","拉里·布兰登伯格","尼尔·吉恩托利","布赖恩·利比","大卫·普罗瓦尔","约瑟夫·劳格诺","祖德·塞克利拉"],
+ "is_watched":false}
